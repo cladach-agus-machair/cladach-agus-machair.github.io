@@ -1,3 +1,6 @@
+// Source for this code comes from the very high quality Traversy Media Youtube Channel 
+// https://youtu.be/POX3dT-pB4E
+
 const Typewriter = function(txtElement, words, wait = 3000){
   this.txtElement = txtElement;
   this.words = words;

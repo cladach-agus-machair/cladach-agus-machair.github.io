@@ -1,4 +1,7 @@
 
+// Source for this code comes from the very high quality Traversy Media Youtube Channel
+// https://youtu.be/6ophW7Ask_0
+
 const current = document.querySelector('#current');
 const modal = document.getElementById('imageModal');
 const images = document.querySelectorAll('.images img');
